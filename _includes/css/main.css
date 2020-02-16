@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #FFFFFF {{ site.color.primary }};
+    color: {{ site.color.primary }};
 }
 /* {{ site.color.primary }} */
 h1,

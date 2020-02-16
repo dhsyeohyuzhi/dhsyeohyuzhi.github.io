@@ -49,7 +49,7 @@ address:
 
 
 # Credits content
-credits: 'Website build by <a href = "https://yeohyuyong.me">Yeoh Yu Yong</a>. Open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Website build by <a href = "https://yeohyuyong.me" target = "_blank">Yeoh Yu Yong</a>. Open source Bootstrap theme created by <a href="http://startbootstrap.com" target= "_blank" >Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
